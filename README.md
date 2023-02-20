@@ -1,4 +1,4 @@
-**👋 Hi, I'm Gabriel Mayorga**
+### **👋 Hi, I'm Gabriel Mayorga**
 
 I am developer and system engineering student at UCA (Universidad Centroamericana)
 
